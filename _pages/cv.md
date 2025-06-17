@@ -11,35 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Civil and Environmental Engineering, University of Berkeley, California, Summer 2025 (expected)
+* M.S. in Civil and Environmental Engineering, University of Berkeley, December 2021
+* B.E. in Civil Engineering, Stony Brook University, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2024 - Spring 2025: Graduate Student Researcher
+  * University of California, Berkeley
+  * Duties includes: Visualization and Geospatial Analysis of Tidal Flooding in Canal District, San Rafael CA.
+  * Supervisor: Dr. Mark Stacey
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2022: Graduate Student Researcher
+  * University of California, Berkeley
+  * Duties included: Remote Sensing and Hydrodyamic Modeling of Mangrove Forests in Haiti and the Caribbean.
+  * Supervisor: Dr. Mark Stacey
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2019 - March 2020: Laboratory Assistant
+  * Stony Brook University
+  * Duties included: Experiments on Nitrogen removal from on-site Wastewater using Membrane Bioreactors.
+  * Supervisor: Dr. Sarah Lotfikatouli
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Remote Sensing and Geospatial Analysis
+* Programming and Data Science
+  * Python
+  * MATLAB
+  * Java
+* Hydrodynamic Modeling
 
 Publications
 ======
@@ -61,4 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Co-Founder of [Caribbean Coalition at Berkeley](https://sites.google.com/berkeley.edu/caribbeancoalitionatberkeley/home?authuser=0)

@@ -1,10 +1,10 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Alexandre Erich Sebastien Georges",
+    "email": "alexandre_georges@berkeley.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://aesgeorges.github.io",
+    "summary": "PhD Candidate at the University of California, Berkeley. Civil and Environmental Engineering Department. Researching the resilience and protection potential of mangrove forests in Haiti and the Caribbean.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -33,30 +33,30 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of California, Berkeley",
+      "area": "Ph.D in Civil and Environmental Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "University of California, Berkeley",
+      "area": "M.S. in Civil and Environmental Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
+      "endDate": "December 2021",
+      "gpa": 3.51,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Stony Brook University",
+      "area": "B.E. in Civil Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "endDate": "2016",
+      "gpa": 3.5,
       "courses": []
     }
   ],
